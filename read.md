@@ -2,7 +2,7 @@ The text is under process (draft)
 
 
 ---
-title: "CaBBI: calcium imaging analysis using biophysical models and Bayesian inference"
+"CaBBI: calcium imaging analysis using biophysical models and Bayesian inference"
 ---
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
